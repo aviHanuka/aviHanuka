@@ -34,16 +34,8 @@ Focus areas: SaaS, CRM/ERP integrations (Zoho, Priority), payment gateways (Card
 
 ---
 
-### 📌 Featured Projects
-- **AI Avatar Agent SaaS** – Real-time speaking avatar that answers from business profiles.
-- **Booking & Pricing Engine** – Dynamic rules (gap/unsold nights), cron, suggestions, audit logs.
-- **Zoho CRM Widgets & Flows** – Document linking, EPAY/CardCom webhooks, Deals/Quotes automation.
-- **WordPress Secure SSO** – External API auth, role gating, meta-based session control.
-
-
 ### 📫 Contact
 - **Site**: https://codja.net  
-- **Email**: hello@codja.net  
-- **Calendly**: YOUR LINK (optional)
+- **Email**: a@codja.net  
 
 > *Available for consulting and full-cycle delivery: from spec to production.*
