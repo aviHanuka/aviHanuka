@@ -8,7 +8,7 @@ Senior developer & system architect • Laravel • Angular • Node.js • Word
 <p align="center">
   <a href="https://codja.net">Website</a> •
   <a href="mailto:hello@codja.net">Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/codja">LinkedIn</a>
 </p>
 
 ---
