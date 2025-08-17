@@ -40,13 +40,6 @@ Focus areas: SaaS, CRM/ERP integrations (Zoho, Priority), payment gateways (Card
 - **Zoho CRM Widgets & Flows** – Document linking, EPAY/CardCom webhooks, Deals/Quotes automation.
 - **WordPress Secure SSO** – External API auth, role gating, meta-based session control.
 
----
-
-### 📈 Dev Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
 
 ### 📫 Contact
 - **Site**: https://codja.net  
