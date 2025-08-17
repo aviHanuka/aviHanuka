@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- Profile README -->
 
-<!--
-**aviHanuka/aviHanuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">CODJA • Software & AI Engineering</h1>
+<p align="center">
+Senior developer & system architect • Laravel • Angular • Node.js • WordPress • Zoho • DevOps (AWS/Docker/CI/CD)
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://codja.net">Website</a> •
+  <a href="mailto:hello@codja.net">Email</a> •
+  <a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 About
+I characterize and build end-to-end products: architecture → backend → frontend → CI/CD → observability.  
+Focus areas: SaaS, CRM/ERP integrations (Zoho, Priority), payment gateways (CardCom, Stripe), and AI agents.
+
+---
+
+### 🚀 Services
+- **Custom SaaS & APIs**: Laravel / Node.js, Postgres/MySQL, Redis/Queues
+- **Frontend Apps**: Angular & React, component libraries, performance & a11y
+- **AI & Automation**: OpenAI, Whisper, vision/LLM pipelines, chatbots (WhatsApp/Telegram)
+- **DevOps**: AWS, Docker, GitHub Actions/GitLab CI, Terraform, monitoring
+- **E-commerce & WP**: WooCommerce, Elementor/LearnDash, performance & security hardening
+
+---
+
+### 🧰 Tech Stack
+`Laravel` `PHP` `Node.js` `TypeScript` `Angular` `React` `MySQL` `PostgreSQL` `Redis`  
+`Docker` `AWS` `Nginx` `GitHub Actions` `Zoho CRM/Creator` `Priority ERP` `OpenAI`
+
+---
+
+### 📌 Featured Projects
+- **AI Avatar Agent SaaS** – Real-time speaking avatar that answers from business profiles.
+- **Booking & Pricing Engine** – Dynamic rules (gap/unsold nights), cron, suggestions, audit logs.
+- **Zoho CRM Widgets & Flows** – Document linking, EPAY/CardCom webhooks, Deals/Quotes automation.
+- **WordPress Secure SSO** – External API auth, role gating, meta-based session control.
+
+---
+
+### 📈 Dev Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+### 📫 Contact
+- **Site**: https://codja.net  
+- **Email**: hello@codja.net  
+- **Calendly**: YOUR LINK (optional)
+
+> *Available for consulting and full-cycle delivery: from spec to production.*
